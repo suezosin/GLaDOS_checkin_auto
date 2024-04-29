@@ -1,4 +1,5 @@
 import requests,json,os
+# 4.29
 
 # pushplus秘钥
 sckey = os.environ.get("PUSHPLUS_TOKEN", "")
